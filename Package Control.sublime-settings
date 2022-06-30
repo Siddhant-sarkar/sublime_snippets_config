@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"FileIcons",
+		"NeoVintageous",
+		"Origami",
+		"Package Control",
+		"SublimeAStyleFormatter",
+	],
+	"in_process_packages":
+	[
+	],
+}

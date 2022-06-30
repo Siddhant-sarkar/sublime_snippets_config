@@ -1,0 +1,36 @@
+{
+	"inactive_sheet_dimming": false,
+	// theme and ignored packages
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Horizon.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Six",
+		"Vintage",
+		"Vintageous",
+	],
+	// "show_panel_on_build": false,
+	// scroll bar;s
+	"scroll_past_end": true,
+	"save_on_focus_lost": true,
+	"overlay_scroll_bars": "enabled",
+	"hide_tab_scrolling_buttons": false,
+	// font face
+	"font_face": "Fira Code Retina",
+	"font_options":
+	[
+	    "gray_antialias"
+	], 
+	"font_size": 16,
+
+	"neovintageous_build_version": 11100,
+	// caret 
+	"caret_style": "phase",
+	"highlight_line": true,
+	// folder labels
+	"line_padding_bottom": 1,
+  	"line_padding_top": 1,
+  	//  folder lable
+  	"fade_fold_buttons": false,
+  "bold_folder_labels": true,
+}

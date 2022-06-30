@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+printf("%${1:}",${2:});
+]]></content>
+  <tabTrigger>pf</tabTrigger>
+  <description>I/O</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>
